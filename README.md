@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center"><b>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+  <h1 align="center"><b>Hi there Sebastian Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 <p>
   <h4 align="center"><b>"Continual effort, not strength or intelligence. It is the key to unlocking our potential."</b></h4>
