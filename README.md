@@ -1,5 +1,8 @@
 
 <p>
+  <p align="center">
+  <img src="https://github.com/JuanSebastianMoralesVilla/ProjectX/blob/main/Images/git.png" height="200"/>
+</p>
   <h1 align="center"><b>Hi there Sebastian Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 <p>
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
 <p align="left">
   <p align="center">
 <a href="https://www.linkedin.com/in/juan-sebastian-morales-villa-2a95b81b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href = "mailto: juansebastianmoralesvilla@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> 
@@ -51,9 +55,39 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="Sebastian Morales" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="Sebastian Morales" width="37%">
-
-
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<hr>
+
+
+Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
 
 
 <!--
