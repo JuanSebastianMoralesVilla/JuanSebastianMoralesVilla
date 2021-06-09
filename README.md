@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p align="center">
+    
 <a href="https://www.linkedin.com/in/juan-sebastian-morales-villa-2a95b81b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href = "mailto: juansebastianmoralesvilla@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" height="30" width="40" /></a>
 
@@ -53,13 +54,16 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="Sebastian Morales" width="60%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="Sebastian Morales" width="37%">
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 <hr>
 
 
+
+
+
+<br />
+<hr>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
