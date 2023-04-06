@@ -53,9 +53,13 @@ Here are some ideas to get you started:
  </p>
 
 ### 📈 My GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="Sebastian Morales" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="Sebastian Morales" width="37%">
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="Sebastian Morales" width="60%">
+
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianMoralesVilla&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="Sebastian Morales" width="37%">
+    </div>
 
 <div>
 
